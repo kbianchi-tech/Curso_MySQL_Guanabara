@@ -38,6 +38,8 @@
 * `WHERE` - O **filtro** da sua busca. É usado para especificar condições e retornar apenas as linhas (registros) que atendem a esses critérios.
     * *Exemplo:* `SELECT * FROM cursos WHERE ano = 2016;` (Mostra todos os cursos do ano de 2016).
 
+---
+
 #### Operadores para usar com o WHERE
 ![Imagem da tabela de operadores comparativos](../Imagem/Operador_comparativo.png)
 
