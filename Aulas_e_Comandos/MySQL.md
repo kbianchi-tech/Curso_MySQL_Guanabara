@@ -48,11 +48,13 @@
     * `<=` (Menor ou igual a)
     * `=` (Igual a)
     * `!=` ou `<>` (Diferente de)
+---
 
 ![Imagem da tabela de operadores lógicos](../Imagem/operadores_logicos.jpeg)
 * **Operadores Lógicos:**
     * `AND` - Usado para **combinar duas ou mais condições**, onde **TODAS** elas devem ser verdadeiras.
     * `OR` - Usado para **combinar duas ou mais condições**, onde **PELO MENOS UMA** delas deve ser verdadeira.
+---
 
 ![Imagem da tabela de operadores de intervalo/lista](../Imagem/Operador_lista.png)
 * **Operadores de Intervalo/Lista:**
@@ -60,6 +62,8 @@
         * *Exemplo:* `WHERE ano BETWEEN 2014 AND 2016;` (É o mesmo que `WHERE ano >= 2014 AND ano <= 2016;`).
     * `IN (valor1, valor2, ...)` - Verifica se um valor **está dentro de uma lista** de opções.
         * *Exemplo:* `WHERE ano IN (2014, 2016, 2018);` (Busca cursos que são *apenas* desses três anos).
+
+---
 
 * **Operadores de Padrão (Curinga):**
     * `LIKE` - Usado para buscar um padrão específico em uma coluna de texto (String).
