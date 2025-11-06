@@ -4,6 +4,11 @@ Este repositório serve como um registro pessoal e material de consulta para os 
 
 O conteúdo principal reflete o meu entendimento pessoal sobre os comandos e conceitos apresentados durante as aulas, servindo como um guia rápido para referência futura.
 
+## 🛠️ Tecnologias e Conceitos
+
+* **SQL:** O foco principal do estudo, com ênfase nos comandos DDL, DML e DQL do **MySQL**.
+* **Versionamento (Git):** Este projeto é versionado com Git para registrar o progresso e as atualizações das anotações.
+
 ## 📖 Conteúdo Principal
 
 O coração deste repositório está no arquivo `MySQL.md`, que contém um resumo abrangente dos comandos SQL, organizado da seguinte forma:

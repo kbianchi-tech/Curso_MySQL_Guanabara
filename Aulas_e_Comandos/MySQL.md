@@ -39,7 +39,7 @@
     * *Exemplo:* `SELECT * FROM cursos WHERE ano = 2016;` (Mostra todos os cursos do ano de 2016).
 
 #### Operadores para usar com o WHERE
-![Imagem da tabela de operadores comparativos](Operador_comparativo.png)
+![Imagem da tabela de operadores comparativos](../Imagem/Operador_comparativo.png)
 
 * **Operadores de Comparação:**
     * `>` (Maior que)
@@ -49,12 +49,12 @@
     * `=` (Igual a)
     * `!=` ou `<>` (Diferente de)
 
-![Imagem da tabela de operadores lógicos](operadores_logicos.jpeg)
+![Imagem da tabela de operadores lógicos](../Imagem/operadores_logicos.jpeg)
 * **Operadores Lógicos:**
     * `AND` - Usado para **combinar duas ou mais condições**, onde **TODAS** elas devem ser verdadeiras.
     * `OR` - Usado para **combinar duas ou mais condições**, onde **PELO MENOS UMA** delas deve ser verdadeira.
 
-![Imagem da tabela de operadores de intervalo/lista](Operador_lista.png)
+![Imagem da tabela de operadores de intervalo/lista](../Imagem/Operador_lista.png)
 * **Operadores de Intervalo/Lista:**
     * `BETWEEN valor1 AND valor2` - Verifica se um valor está **dentro de um intervalo** (inclusive).
         * *Exemplo:* `WHERE ano BETWEEN 2014 AND 2016;` (É o mesmo que `WHERE ano >= 2014 AND ano <= 2016;`).
@@ -95,7 +95,7 @@ Usamos `JOIN` para consultar dados que estão em mais de uma tabela ao mesmo tem
 
 ---
 ## Tipos Primitivos:
-![Imagem da tabela de todos os tipos primitivos](tipos-primitivos-sql.jpeg)
+![Imagem da tabela de todos os tipos primitivos](../Imagem/tipos-primitivos-sql.jpeg)
 
 
 ---
